@@ -1,0 +1,118 @@
+
+.buton1 {
+    -fx-background-color: #336699; 
+    -fx-text-fill: orange; 
+    -fx-font-size: 15px; 
+    -fx-font-family: "Copperplate, Papyrus, fantasys"; 
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+    -fx-font-weight: bold;
+    
+}
+
+.buton2 {
+    -fx-background-color: #F85308; 
+    -fx-text-fill: blue; 
+    -fx-font-size: 15px; 
+    -fx-font-family: "Copperplate, Papyrus, fantasy"; 
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 ); 
+    -fx-font-weight: bold;
+}
+
+.buton2:hover {
+    -fx-background-color: white; 
+}
+
+.buton1:hover {
+    -fx-background-color: white; 
+}
+
+.textt{
+	-fx-font-size: 50px;
+    -fx-fill: blue;
+    -fx-font-family: "Copperplate, Papyrus, fantasy";
+    -fx-font-weight: bold;
+}
+
+.sterge{
+	-fx-font-size: 30px;
+    -fx-fill: blue;
+    -fx-font-family: "Copperplate, Papyrus, fantasy";
+    -fx-font-weight: bold;
+}
+
+.texttt{
+	-fx-font-size: 10px;
+    -fx-fill: blue;
+    -fx-font-family: "Copperplate, Papyrus, fantasy";
+}
+
+.afisare{
+	-fx-font-size: 15px;
+    -fx-text-fill: orange;
+    -fx-font-family: "Copperplate, Papyrus, fantasy";
+    -fx-font-weight: bold;
+}
+
+
+
+#meniu-lateral {
+    -fx-background-color: white; 
+    -fx-padding: 10px; 
+}
+
+#titlu-meniu {
+    -fx-font-size: 20px; 
+    -fx-text-fill: white; 
+    -fx-padding: 10px;
+    -fx-alignment: center; 
+   
+}
+
+.buton-meniu {
+    -fx-background-color: white; 
+    -fx-text-fill:#336699;
+    -fx-border-radius: 0; 
+    -fx-background-radius: 10; 
+    -fx-padding: 10px 15px; 
+     -fx-font-family: Times New Roman;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+.buton-meniu:hover {
+    -fx-background-color: #F85308; 
+}
+
+
+.popup-stage {
+    -fx-background-color: #F85308; 
+}
+
+.label-message {
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+     -fx-font-weight: bold;
+}
+.dreptunghi{
+    -fx-background-color: white;
+    -fx-border-color: black; 
+    -fx-border-width: 2px; 
+    -fx-padding: 10px; 
+    -fx-text-fill: #336699;
+    -fx-font-weight: bold;
+}
+
+
+.dreptunghi2{
+    -fx-background-color: white;
+    -fx-border-color: black; 
+    -fx-border-width: 2px; 
+    -fx-padding: 10px; 
+    -fx-text-fill: #336699;
+    -fx-font-weight: bold;
+}
+
+.dreptunghi2:hover {
+    -fx-background-color: #F85308; 
+}
+
